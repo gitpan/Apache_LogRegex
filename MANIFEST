@@ -1,0 +1,5 @@
+lib/Apache/LogRegex.pm
+Makefile.PL
+MANIFEST
+README
+t/simple.t
